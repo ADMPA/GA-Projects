@@ -1,2 +1,3 @@
 # GA-Projects
-Projects completed as part of the GA DSI
+
+Project 4 - Data Science salaries from Indeed.com
